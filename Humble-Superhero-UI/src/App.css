@@ -1,0 +1,26 @@
+
+ .App{
+  margin: auto 5%;
+
+  
+ }
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.form input[type="text"],
+.form input[type="range"] {
+  display: block;
+  margin-top: 5px;
+}
+
+
+
+
+
+
+

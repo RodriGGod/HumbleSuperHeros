@@ -1,0 +1,8 @@
+POST http://localhost:3000/superheroes
+Content-Type: application/json
+
+{
+  "name": "Rodrigo Blanco",
+  "superpower": "Fullstack Developer",
+  "humilityScore": 5
+}
